@@ -23,7 +23,7 @@ A very badass hackerman 90's style login screen.
 Basically the green Matrix code animation before it existed yet.
 
 ## DOS.BAS
-<img src="screengrabs/DOS.gif"/>  
+<img src="screengrabs/dos.gif"/>  
 Fake MS-DOS prompt to prank my sister.
 
 ## GOK.BAS
