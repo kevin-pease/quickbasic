@@ -16,12 +16,14 @@ An attempt of creating a 3D animation of a sphere.
 A program to draw a triangle on the screen, points are movable with the arrow keys.
 
 ## BADSCR.BAS
+<img src="screengraps/badscr.gif" alt="H4XZ0RZ"/>  
 A very badass hackerman 90's style login screen.
 
 ## BINARY.BAS
 Basically the green Matrix code animation before it existed yet.
 
 ## DOS.BAS
+<img src="screengraps/DOS.gif"/>  
 Fake MS-DOS prompt to prank my sister.
 
 ## GOK.BAS
